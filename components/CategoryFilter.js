@@ -23,11 +23,6 @@ export default function CategoryFilter({setCategoryFilter}) {
   }
 
 
-
-  // const renderItem = ({ item }) => {
-  //   <ProductCard item={item} key={item.id} />
-  // }
-
   return (
     <View className="flex pl-12 pt-3 pb-3">
              {
@@ -41,11 +36,6 @@ export default function CategoryFilter({setCategoryFilter}) {
 
                 })
             } 
-
-            {/* <FlatList 
-              data = {filteredProducts}
-              renderItem = {renderItem}
-            /> */}
 
     </View>
   )
