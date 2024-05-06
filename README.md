@@ -41,10 +41,6 @@ npx expo start
 
 This will start the Expo development server and open the Expo DevTools in your default web browser. You can then run the project on an iOS or Android simulator/emulator, or on a physical device using the Expo Go app.
 
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request with your changes.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
